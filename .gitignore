@@ -1,3 +1,4 @@
+lake-packages/
 /build
 *~
 /lean_packages/*
